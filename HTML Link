@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Links</h2>
+<p>HTML links are defined with the a tag:</p>
+
+<a href="https://www.cipherschools.com/videopage?courseid=6330852c6b47917b67346b1f&video=1">This is a link</a>
+
+</body>
+</html>
